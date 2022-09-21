@@ -10,7 +10,7 @@ import { MeuPrimeiro2Component } from './meu-primeiro2/meu-primeiro2.component';
   declarations: [
     AppComponent,
     MeuPrimeiroComponent,
-    MeuPrimeiro2Component,
+    MeuPrimeiro2Component
   ],
   imports: [
     BrowserModule
