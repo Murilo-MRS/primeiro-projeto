@@ -11,7 +11,7 @@ export class CursosComponent {
   nomePortal : string;
 
   cursos : string[];
-
+  
   constructor(private cursosService: CursosService) {
     this.nomePortal = `http://loiane.training`;
     // var servico = new CursosService();
